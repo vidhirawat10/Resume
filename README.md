@@ -34,7 +34,7 @@ This repository contains my **most updated resume** in PDF format. It is intende
 
 If you'd like to connect or collaborate, feel free to reach out!
 
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [vidhirawat54@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/vidhirawat10](https://www.linkedin.com/in/vidhi-rawat-8a795928b/)
 - 🌐 Portfolio: [https://vidhi-portfolio.vercel.app/](https://vidhi-portfolio.vercel.app/)
 
