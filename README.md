@@ -26,7 +26,7 @@ This repository contains my **most updated resume** in PDF format. It is intende
 
 ## 📎 File(s) Included
 
-- `Vidhi_Rawat_Resume.pdf` — My latest resume.
+- `Vidhi Rawat - Resume.pdf` — My latest resume.
 
 ---
 
